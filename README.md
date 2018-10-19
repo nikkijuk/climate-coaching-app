@@ -8,6 +8,8 @@ Save the world.
 
 But yes: it's good question. It's not clear to me why would anyone use app for climate-coaching and why? who would do content? who would consume it? privately? with community? sharing all? sharing nothing? sharing when finished? sharing thru process or learning? 
 
+It is also not clear to me what would be core functionality where to start and how much additional functionality is needed. Chat? Q&A? Information from authorized sources, lookup services, product ratings, calculators, ..
+
 It only makes sense to go forward if idea gets so clear that it's possible to implement very focused tool that would be useful and solve some problem.
 
 ## coaching program structure
