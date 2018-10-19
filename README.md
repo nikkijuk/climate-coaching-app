@@ -12,15 +12,26 @@ It only makes sense to go forword if idea gets so clear that it's possible to im
 
 ## coaching program structure
 
+I've thought that coaching aims to change something. And change always means reflection, learning and action.
+
 Coaching programs needs to be formulated somehow. How about using markdown, so that each program has always one file as root (aka index.html) and if needed each module could been saved as single file in corresponding subdirectory.
 
 1. Metadata
 2. Introduction
 3. Modules
-  * Module
+  * Module 1
     * Introduction
     * Lecture 1
     * Test 1
+    * Action 1
+    * (and so on)
+    * Summary
+    * Further information
+  * Module 2
+    * Introduction
+    * Test 1
+    * Action 1
+    * Lectue 1
     * (and so on)
     * Summary
     * Further information
@@ -33,11 +44,17 @@ Note that this silly idea has following rationale
 - coaching program can be saved to git repository and exported to devices as single jar containing whole repository content
 - git would allow versioning, but also co-operation on authoring content
 
+It's not clear to me if data collection, calculation and summarizing is part of program. It seems to me that it would make sense to collect data so that it could be stored locally during execution of modules and later used together with other information. How this is to be done in generic format is open. Json, jxpath and simple operations (+,-,*,/) could be sufficient for some tasks - but as Android and iOs both have powerful sql database this could also be option. Anyway: writing sql is not core competence of perspons who are able to formulate course content.
+
 ## implementation of coaching apps
 
 Look ma, I found new toy
 
 https://flutter.io/
+
+and it can do lot of things
+
+https://pub.dartlang.org/packages/sqflite
 
 ## next steps
 
