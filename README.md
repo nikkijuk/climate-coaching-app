@@ -12,6 +12,12 @@ It is also not clear to me what would be core functionality where to start and h
 
 It only makes sense to go forward if idea gets so clear that it's possible to implement very focused tool that would be useful and solve some problem.
 
+## motivational poster
+
+at firts it sucks! always! get over it..
+
+https://www.youtube.com/watch?v=3plREv4LyWo
+
 ## coaching program structure
 
 I've thought that coaching aims to change something. And change always means reflection, learning and action.
