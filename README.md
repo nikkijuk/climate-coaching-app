@@ -18,7 +18,7 @@ at firts it sucks! always! get over it..
 
 https://www.youtube.com/watch?v=3plREv4LyWo
 
-## coaching program structure
+## coaching program structure: idea 1
 
 I've thought that coaching aims to change something. And change always means reflection, learning and action.
 
@@ -51,6 +51,19 @@ Note that this silly idea has following rationale
 - coaching program can be written with any tool, there isn't any special authoring tools
 - coaching program can be saved to git repository and exported to devices as single jar containing whole repository content
 - git would allow versioning, but also co-operation on authoring content
+
+## coaching program structure: idea 1
+
+same as above, but not one document, but lot of markdown documents in directory structure like
+
+/index.md
+/modules/1/1_1_introduction.md 
+/modules/1/1_2_lecture1.md
+..
+/modules/2/2_1_introduction.md
+..
+
+in this kind of structure each document corresponds to view in app
 
 ## open questions
 
