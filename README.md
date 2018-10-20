@@ -66,11 +66,17 @@ and it can do lot of things
 
 https://pub.dartlang.org/packages/sqflite
 
+
+
 ## authoring
 
-markdown
+markdown syntax
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+parsing and showing markdown
+
+https://pub.dartlang.org/packages/flutter_markdown
 
 ## next steps
 
