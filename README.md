@@ -94,3 +94,9 @@ https://pub.dartlang.org/packages/flutter_markdown
 ## next steps
 
 I'll try to iterate and formulate this - let's see - I really don't know if this is good or useful idea
+
+## inspirations
+
+https://www.uprightproject.com/model/
+
+http://fp2w.org/
